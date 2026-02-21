@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-neuro-edge-optimizer-secure-g0i",
+  "version": "1.0.0",
+  "description": "Real-time data processing platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "neuro-edge-optimizer-secure-g0i"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-neuro-edge-optimizer-secure-g0i.git"
+  }
+}
